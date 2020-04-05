@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to CommunityCode
 
-You can use the [editor on GitHub](https://github.com/chtnnh/CommunityCode/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are a community of students based in Dubai, working towards being the future of technology and computer science.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Code of Conduct
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chtnnh/CommunityCode/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+1. All members are equal in the eyes of the community and the community strives to present equal opportunities of growth to all it's members.
+2. No members must indulge in any actions that harm/hurt any of its members in-person during any community events or on online platforms.
+3. The community is build on equality and all members are expected to behave free of any bias and have healthy interactions with other members of the community.
+4. The decision of the Governing Council and President regarding violation of this code shall be final.
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
